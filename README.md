@@ -14,14 +14,14 @@
 📚 Planning to dive deeper into **JavaScript/TypeScript**
 
 ```ruby
-const milorad = {
-    location: "Novi Sad, Serbia 🇷🇸",
-    education: "Master's in Applied Software Engineering",
-    interests: ["Backend Development", "Full-Stack engineering", "Cybersecurity"],
-    currentlyLearning: "Cybersecurity",
-    askMeAbout: ["C#", ".NET", "React", "Microservices", "Cloud Computing"],
-    funFact: "I enjoy music, sports, playing chess ♙"
-};
+milorad = {
+  location: "Novi Sad, Serbia 🇷🇸",
+  education: "Master's in Applied Software Engineering",
+  interests: ["Backend Development", "Full-Stack engineering", "Cybersecurity"],
+  currently_learning: "Cybersecurity",
+  ask_me_about: ["C#", ".NET", "React", "Microservices", "Cloud Computing"],
+  fun_fact: "I enjoy music, sports, playing chess ♙"
+}
 ```
 
 ## 🛠️ Tech Stack
@@ -68,19 +68,14 @@ E-commerce platform with separate payment microservice
 **Features**: Account deposits • Book purchases • Inter-service communication
 
 ### 💰 [Crypto Portfolio Manager](https://github.com/Bat0oo/RazvojCloudAplikacija_Projekat)
-Track your cryptocurrency holdings (simulated)  
-**Tech**: Cloud-native architecture  
-**Features**: Portfolio tracking • Buy/sell management
+Cloud-native crypto tracking platform with health monitoring  
+**Tech**: C# • ASP.NET • React • Azure Storage • Coinbase API  
+**Features**: Transaction management • Profit/loss tracking • Email notifications • System health monitoring
 
-### 🌍 [Air Quality Prediction System](https://github.com/Bat0oo/air_quality_project)
-ML-powered air quality forecasting for Serbian cities  
-**Tech**: Python • Flask • Random Forest • Plotly • MongoDB  
-**Features**: ETL pipeline • AQI calculation • Interactive visualizations
-
-### ⚡ [IES - Electrical Grid Data Processor](https://github.com/Bat0oo/IES-Projekat)
-CIM/XML parser for power grid data  
-**Tech**: .NET • WPF • Azure Blob Storage  
-**Features**: CIM standard parsing • Data format conversion • Profile generation
+### 🎲 [Rubik's Cube REST API](https://github.com/Bat0oo/rubik-s-cube)
+Backend API for virtual Rubik's Cube manipulation  
+**Tech**: Ruby on Rails • SQL Server  
+**Features**: Standard cube notation moves • State persistence • RESTful endpoints
 
 ## 📊 GitHub Stats
 
