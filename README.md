@@ -1,117 +1,192 @@
-# Hi there, I'm Milorad Maksić 👋
+# 💻 Milorad Maksić
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Backend+Developer+%7C+Full-Stack+Engineer;Master's+Student+in+Software+Engineering;Building+Scalable+%26+Secure+Applications" alt="Typing SVG" />
-</div>
 
-## 🚀 About Me
+### `Software Engineer` • `Master's Student` • `Backend Specialist`
 
-🎓 **Master's Student** in Applied Software Engineering at **Faculty of Technical Sciences, Novi Sad, Serbia**  
-💼 Currently working as a Software Engineer  
-🔧 Backend-focused engineer with full-stack capabilities  
-🔐 Currently exploring **Cybersecurity**  
-🎵 Working on an **8D audio spatial positioning project** using Ruby on Rails  
-📚 Planning to dive deeper into **JavaScript/TypeScript**
+[![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=black)](https://your-portfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-00D9FF?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/miloradmaksic01/)
+[![Email](https://img.shields.io/badge/Email-00FF9F?style=for-the-badge&logo=gmail&logoColor=black)](mailto:miloradmaksic01@gmail.com)
 
 ```ruby
 milorad = {
-  location: "Novi Sad, Serbia 🇷🇸",
-  education: "Master's in Applied Software Engineering",
-  interests: ["Backend Development", "Full-Stack engineering", "Cybersecurity"],
-  currently_learning: "Cybersecurity",
-  ask_me_about: ["C#", ".NET", "React", "Microservices", "Cloud Computing"],
-  fun_fact: "I enjoy music, sports, playing chess ♙"
+    location: "Novi Sad, Serbia 🇷🇸",
+    education: "Master's in Applied Software Engineering",
+    focus: ["Backend Development", "Microservices", "Cloud Computing"],
+    currently: "Exploring Cybersecurity & 8D Audio Processing",
+    status: "Open to opportunities 🚀"
 }
 ```
 
-## 📫 Let's Connect!
+</div>
 
+---
+
+## 🔥 Tech Stack
+
+### Languages
 <div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miloradmaksic01/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bat0oo/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miloradmaksic01@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-bat0oos-projects.vercel.app/)
+
+![C#](https://img.shields.io/badge/C%23-00D9FF?style=for-the-badge&logo=csharp&logoColor=black)
+![Ruby](https://img.shields.io/badge/Ruby-00FF9F?style=for-the-badge&logo=ruby&logoColor=black)
+![Python](https://img.shields.io/badge/Python-00FFF5?style=for-the-badge&logo=python&logoColor=black)
 
 </div>
 
-## 🛠️ Tech Stack
+### Backend
+<div align="center">
 
-### Languages
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-00D9FF?style=for-the-badge&logo=dotnet&logoColor=black)
+![.NET Core](https://img.shields.io/badge/.NET_Core-00D9FF?style=for-the-badge&logo=dotnet&logoColor=black)
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-00FF9F?style=for-the-badge&logo=rubyonrails&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-00FFF5?style=for-the-badge&logo=flask&logoColor=black)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-B200FF?style=for-the-badge&logo=dotnet&logoColor=black)
 
-### Backend & Frameworks
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-![Service Fabric](https://img.shields.io/badge/Service_Fabric-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+</div>
 
 ### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![WPF](https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=windows&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+<div align="center">
+
+![React](https://img.shields.io/badge/React-00D9FF?style=for-the-badge&logo=react&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-B200FF?style=for-the-badge&logo=bootstrap&logoColor=black)
+
+</div>
 
 ### Databases
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+<div align="center">
 
-### Cloud & Tools
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-00D9FF?style=for-the-badge&logo=microsoftsqlserver&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-00FF9F?style=for-the-badge&logo=mongodb&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-00FFF5?style=for-the-badge&logo=postgresql&logoColor=black)
+![Azure Blob](https://img.shields.io/badge/Azure_Blob-B200FF?style=for-the-badge&logo=microsoftazure&logoColor=black)
 
-### Currently Learning
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=hackaday&logoColor=white)
+</div>
 
-## 🌟 Featured Projects
+### Cloud & DevOps
+<div align="center">
 
-### 🚕 [PUGS - Taxi Service Simulation](https://github.com/Bat0oo/PUGS-Projekat)
-Full-stack taxi platform with microservices architecture  
-**Tech**: React • .NET Core • Service Fabric • Azure Blob Storage  
-**Features**: Role-based access (Admin/Rider/Driver) • Ride estimation service • Microservices communication
+![Azure](https://img.shields.io/badge/Azure-00D9FF?style=for-the-badge&logo=microsoftazure&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-00FF9F?style=for-the-badge&logo=docker&logoColor=black)
+![Git](https://img.shields.io/badge/Git-00FFF5?style=for-the-badge&logo=git&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-B200FF?style=for-the-badge&logo=githubactions&logoColor=black)
+
+</div>
+
+---
+
+## ⚡ Featured Projects
+
+### 🚖 [PUGS - Taxi Service Platform](https://github.com/Bat0oo/PUGS-Projekat)
+```yaml
+Description: Full-stack taxi simulation with microservices architecture
+Tech Stack: React • .NET Core • Service Fabric • Azure Blob Storage
+Highlights:
+  - 🔹 Role-based authentication (Admin/Rider/Driver)
+  - 🔹 Real-time ride estimation algorithms
+  - 🔹 Microservices with Service Fabric
+```
 
 ### 📚 [Cloud Bookstore with Banking Service](https://github.com/Bat0oo/CIoud_Racunarstvo_BookStore)
-E-commerce platform with separate payment microservice  
-**Tech**: .NET • Service Fabric • React  
-**Features**: Account deposits • Book purchases • Inter-service communication
+```yaml
+Description: E-commerce platform with integrated banking microservice
+Tech Stack: .NET • Service Fabric • React
+Highlights:
+  - 🔹 Separate banking microservice
+  - 🔹 Inter-service communication
+  - 🔹 Distributed system design
+```
 
-### 💰 [Crypto Portfolio Manager](https://github.com/Bat0oo/RazvojCloudAplikacija_Projekat)
-Cloud-native crypto tracking platform with health monitoring  
-**Tech**: C# • ASP.NET • React • Azure Storage • Coinbase API  
-**Features**: Transaction management • Profit/loss tracking • Email notifications • System health monitoring
+### 🌍 [Air Quality Prediction System](https://github.com/Bat0oo/air_quality_project)
+```yaml
+Description: ML-powered air quality forecasting for Serbian cities
+Tech Stack: Python • Flask • Random Forest • Plotly • MongoDB
+Highlights:
+  - 🔹 Complete ETL pipeline
+  - 🔹 EPA-standard AQI calculation
+  - 🔹 Interactive Plotly dashboards
+```
 
-### 🎲 [Rubik's Cube REST API](https://github.com/Bat0oo/rubik-s-cube)
-Backend API for virtual Rubik's Cube manipulation  
-**Tech**: Ruby on Rails • SQL Server  
-**Features**: Standard cube notation moves • State persistence • RESTful endpoints
+### 🧊 [Rubik's Cube API](https://github.com/Bat0oo/rubik-s-cube)
+```yaml
+Description: RESTful API for Rubik's Cube simulation
+Tech Stack: Ruby on Rails • SQL Server
+Highlights:
+  - 🔹 Standard cube notation (R, L, U, D, F, B)
+  - 🔹 State persistence
+  - 🔹 RESTful endpoint design
+```
+
+---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bat0oo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bat0oo&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bat0oo&show_icons=true&theme=tokyonight&bg_color=0a0e27&title_color=00d9ff&icon_color=00ff9f&text_color=ffffff&border_color=00d9ff)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bat0oo&layout=compact&theme=tokyonight&bg_color=0a0e27&title_color=00d9ff&text_color=ffffff&border_color=00ff9f)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bat0oo&theme=tokyonight&background=0a0e27&ring=00d9ff&fire=00ff9f&currStreakLabel=00d9ff&border=00d9ff)
+
 </div>
 
+---
+
+## 🎯 Current Focus
+
+```python
+current_goals = {
+    "learning": ["Cybersecurity", "JavaScript/TypeScript"],
+    "exploring": ["8D Audio Processing", "Advanced ML"],
+    "building": ["Microservices Projects", "Cloud Solutions"],
+    "seeking": ["Backend Developer Roles", "Full-Stack Opportunities"]
+}
+```
+
+---
+
+## 🌟 Specialties
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bat0oo&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+```javascript
+┌─────────────────────────────────────────────────┐
+│  🎯 Microservices Architecture                  │
+│  ☁️  Cloud-Native Application Development       │
+│  🔧 RESTful API Design & Implementation         │
+│  🤖 Machine Learning Integration                │
+│  🗄️  Database Design & Optimization             │
+│  📊 Full-Stack Development (React + .NET)       │
+└─────────────────────────────────────────────────┘
+```
+
 </div>
 
-## 🏆 GitHub Trophies
+---
+
+## 📫 Get In Touch
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bat0oo&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
+
+[![Email](https://img.shields.io/badge/Email_Me-00FF9F?style=for-the-badge&logo=gmail&logoColor=black)](mailto:miloradmaksic01@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-00D9FF?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/miloradmaksic01/)
+[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-B200FF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Bat0oo)
+[![Instagram](https://img.shields.io/badge/Instagram-FF006E?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/bat0oo/)
+
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bat0oo&style=for-the-badge&color=blueviolet" alt="Profile Views" />
-  
-  ### 💭 *"First, solve the problem. Then, write the code."* - John Johnson
-  
-  ![Snake animation](https://raw.githubusercontent.com/Bat0oo/Bat0oo/output/github-contribution-grid-snake.svg)
-</div>
 
----
+### 💚 Thanks for visiting! 💚
+
+```
+╔═══════════════════════════════════════════════════════╗
+║  "Building scalable solutions, one line at a time"   ║
+╚═══════════════════════════════════════════════════════╝
+```
+
+![Profile Views](https://komarev.com/ghpvc/?username=Bat0oo&color=00d9ff&style=for-the-badge&label=Profile+Views)
+
+</div>
