@@ -7,20 +7,20 @@
 ## 🚀 About Me
 
 🎓 **Master's Student** in Applied Software Engineering at **Faculty of Technical Sciences, Novi Sad, Serbia**  
-💼 Currently working as a Software Developer  
+💼 Currently working as a Software Engineer  
 🔧 Backend-focused engineer with full-stack capabilities  
 🔐 Currently exploring **Cybersecurity**  
 🎵 Working on an **8D audio spatial positioning project** using Ruby on Rails  
 📚 Planning to dive deeper into **JavaScript/TypeScript**
 
-```javascript
+```ruby
 const milorad = {
     location: "Novi Sad, Serbia 🇷🇸",
     education: "Master's in Applied Software Engineering",
-    interests: ["Backend Development", "Microservices", "Cybersecurity", "8D Audio"],
-    currentlyLearning: "Cybersecurity & Advanced JS/TS",
+    interests: ["Backend Development", "Full-Stack engineering", "Cybersecurity"],
+    currentlyLearning: "Cybersecurity",
     askMeAbout: ["C#", ".NET", "React", "Microservices", "Cloud Computing"],
-    funFact: "I build taxi apps, bookstores, and crypto managers... but I'm really into 8D music 🎧"
+    funFact: "I enjoy music, sports, playing chess ♙"
 };
 ```
 
@@ -30,14 +30,11 @@ const milorad = {
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Backend & Frameworks
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Service Fabric](https://img.shields.io/badge/Service_Fabric-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ### Frontend
@@ -123,7 +120,3 @@ CIM/XML parser for power grid data
 </div>
 
 ---
-
-<div align="center">
-  <sub>Built with ❤️ and lots of ☕</sub>
-</div>
