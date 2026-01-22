@@ -16,7 +16,7 @@
 ```ruby
 milorad = {
   location: "Novi Sad, Serbia 🇷🇸",
-  education: "Master's in Applied Software Engineering",
+  education: "Master's student in Applied Software Engineering",
   interests: ["Backend Development", "Full-Stack engineering", "Cybersecurity"],
   currently_learning: "Cybersecurity",
   ask_me_about: ["C#", ".NET", "React", "Microservices", "Cloud Computing"],
