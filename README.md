@@ -109,16 +109,6 @@ Cloud-native crypto tracking platform with health monitoring
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bat0oo&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bat0oo&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bat0oo&style=for-the-badge&color=blueviolet" alt="Profile Views" />
   
   ![Snake animation](https://raw.githubusercontent.com/Bat0oo/Bat0oo/output/github-contribution-grid-snake.svg)
 </div>
