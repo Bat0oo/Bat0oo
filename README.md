@@ -69,6 +69,21 @@ milorad = {
 
 ## 🌟 Featured Projects
 
+### 🔥 [Gas Boiler Management System](https://github.com/Bat0oo/Gas-Boiler-Web-Application)
+Full-stack heating management platform with real-time automatic temperature control  
+**Tech**: .NET • C# • React • TypeScript • SignalR • SQL Server • Entity Framework  
+**Features**: P-controller algorithm • Real-time WebSocket updates • Interactive Leaflet map • Alarm system • Weather API integration • Role-based access (Admin/User) • CSV export
+
+### 🤖 [Document Chat Q&A](https://github.com/Bat0oo/DocumentChatQ-A)
+AI-powered platform for uploading documents and querying them via natural-language chat  
+**Tech**: C# • .NET • Service Fabric • React • MongoDB • Groq AI  
+**Features**: PDF/DOCX upload & parsing • Document embeddings • Conversational Q&A interface • Persistent chat context • Knowledge-base & research use cases
+
+### 🎲 [Rubik's Cube REST API](https://github.com/Bat0oo/rubik-s-cube)
+Backend API for virtual Rubik's Cube manipulation  
+**Tech**: Ruby on Rails • SQL Server  
+**Features**: Standard cube notation moves • State persistence • RESTful endpoints
+
 ### 🚕 [PUGS - Taxi Service Simulation](https://github.com/Bat0oo/PUGS-Projekat)
 Full-stack taxi platform with microservices architecture  
 **Tech**: React • .NET Core • Service Fabric • Azure Blob Storage  
@@ -83,11 +98,6 @@ E-commerce platform with separate payment microservice
 Cloud-native crypto tracking platform with health monitoring  
 **Tech**: C# • ASP.NET • React • Azure Storage • Coinbase API  
 **Features**: Transaction management • Profit/loss tracking • Email notifications • System health monitoring
-
-### 🎲 [Rubik's Cube REST API](https://github.com/Bat0oo/rubik-s-cube)
-Backend API for virtual Rubik's Cube manipulation  
-**Tech**: Ruby on Rails • SQL Server  
-**Features**: Standard cube notation moves • State persistence • RESTful endpoints
 
 ## 📊 GitHub Stats
 
@@ -109,8 +119,6 @@ Backend API for virtual Rubik's Cube manipulation
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Bat0oo&style=for-the-badge&color=blueviolet" alt="Profile Views" />
-  
-  ### 💭 *"First, solve the problem. Then, write the code."* - John Johnson
   
   ![Snake animation](https://raw.githubusercontent.com/Bat0oo/Bat0oo/output/github-contribution-grid-snake.svg)
 </div>
