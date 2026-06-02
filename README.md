@@ -19,7 +19,6 @@ milorad = {
   education: "Master's student in Applied Software Engineering",
   interests: ["Backend Development", "Full-Stack engineering", "Cybersecurity"],
   currently_learning: "Cybersecurity",
-  ask_me_about: ["C#", ".NET", "React", "Microservices", "Cloud Computing"],
   fun_fact: "I enjoy music, sports, playing chess ♙"
 }
 ```
