@@ -10,8 +10,6 @@
 💼 Currently working as a Software Engineer  
 🔧 Backend-focused engineer with full-stack capabilities  
 🔐 Currently exploring **Cybersecurity**  
-🎵 Working on an **8D audio spatial positioning project** using Ruby on Rails  
-📚 Planning to dive deeper into **JavaScript/TypeScript**
 
 ```ruby
 milorad = {
