@@ -118,7 +118,7 @@ Cloud-native crypto tracking platform with health monitoring
 ## 🤝 Open-Source Contributions
 
 Pull requests to other people's projects, each with a short write-up of the problem and the fix:  
-**[Bat0oo/open-source-contributions](https://github.com/Bat0oo/open-source-contributions)** · [all merged PRs on GitHub](https://github.com/search?q=is%3Apr+author%3ABat0oo+is%3Amerged+-user%3ABat0oo&type=pullrequests)
+**[Bat0oo/open-source-contributions](https://github.com/Bat0oo/open-source-contributions)** 
 
 ## 📊 GitHub Stats
 
