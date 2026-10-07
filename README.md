@@ -64,6 +64,25 @@ milorad = {
 ### Currently Learning
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=hackaday&logoColor=white)
 
+## 🧰 Open-Source Tools
+
+Released tools with real users, each with a downloadable build and source.
+
+### 🔧 [AC2IconPatcher](https://github.com/Bat0oo/AC2IconPatcher)
+Reverse-engineered binary archive patcher with a C# port of LZO2A decompression  
+**Tech**: C# • .NET • Binary formats • LZO2A • GitHub Actions  
+**Highlights**: Reads/writes Ubisoft's undocumented Anvil `.forge` format • LZO2A port (existing managed LZO ports only cover LZO1X) • Non-standard Adler-32 checksum • Assets rendered in code, nothing copyrighted redistributed • Self-contained exe with backup & restore
+
+### 🩹 [AoH2 Diplomacy Fix & Watcher](https://github.com/Bat0oo/aoh2-diplomacy-fix)
+Repairs NaN float corruption in Java-serialized saves, plus a background watcher that prevents it  
+**Tech**: Python • Java Serialization • IEEE 754 • watchdog • PyInstaller  
+**Highlights**: **Fix**: scan / dry-run / repair with backup before any write • **Watcher**: tray or CLI, snapshots clean values and restores the exact originals on corruption • 35 automated tests • Standalone Windows executables
+
+### 🗂️ [AoH2 Save Editor](https://github.com/Bat0oo/aoh2-save-files-editor)
+Desktop editor for binary Java-serialized saves with a lossless decode-edit-encode pipeline  
+**Tech**: Python • Tkinter • Java Serialization • GitHub Actions • PyInstaller  
+**Highlights**: Byte-valid round-trip encoding • Lazy tree loading • `field=value` filtering & Batch Edit • Automatic backups • CI-built releases on version tags • [Browser version](https://aoh2-saves-editor.pages.dev) via Pyodide
+
 ## 🌟 Featured Projects
 
 ### 🔥 [Gas Boiler Management System](https://github.com/Bat0oo/Gas-Boiler-Web-Application)
@@ -107,7 +126,10 @@ Cloud-native crypto tracking platform with health monitoring
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bat0oo&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
   
+<div align="center">
+
   ![Snake animation](https://raw.githubusercontent.com/Bat0oo/Bat0oo/output/github-contribution-grid-snake.svg)
+
 </div>
 
 ---
